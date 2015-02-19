@@ -5,7 +5,7 @@ Linux
 
 В этом репозитории находятся списки групп. Не забывайте заглядывать
 в [нашу вики](https://github.com/kaf36/linux/wiki), где вы можете
-ознакомиться с содержанием круса
-[операционные системы](https://github.com/kaf36/linux/wiki/%D0%9A%D1%83%D1%80%D1%81-%22%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%22),
-а также загрузить [виртуальную машину с CentOS](https://github.com/kaf36/linux/wiki/CentOS)
+ознакомиться с содержанием крусов
+[операционные системы](https://github.com/kaf36/linux/wiki/%D0%9A%D1%83%D1%80%D1%81-%22%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B%22), [ядро Linux](https://github.com/kaf36/linux/wiki/%D0%9A%D1%83%D1%80%D1%81-%22%D0%AF%D0%B4%D1%80%D0%BE-Linux%22),
+а также загрузить [готовый образ виртуальной машины с CentOS](https://github.com/kaf36/linux/wiki/CentOS)
 для выполнения лабораторных работ.
